@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-5">
-        Hello, my name is <code className="italic bold text-2xl"> Harshvardhan Singh</code>. I was born and brought up in Kanpur, 
+        Hello, myself<code className="italic bold text-2xl"> Harshvardhan Singh</code>. I was born and brought up in Kanpur, 
         a vibrant city known for its rich cultural heritage. From a young age, 
         I developed a strong sense of dedication and a diligent work ethic. I completed 
         my schooling from KV IIT Kanpur.
