@@ -2,6 +2,10 @@ import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import { Link } from "react-scroll";
 
+const hstyle={
+  lineHeight:1.2,
+}
+
 const NavBar = () => {
   const [nav, setNav] = useState(false);
 
@@ -29,9 +33,11 @@ const NavBar = () => {
   ];
 
   return (
-    <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed">
+    <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed ">
       <div>
-        <h1 className="text-5xl font-signature ml-2">Harshvardhan</h1>
+        <h1 className="text-5xl  font-signature ml-2 
+        bg-gradient-to-r from-yellow-300 via-sky-300 to-pink-400 inline-block text-transparent 
+        bg-clip-text" style={hstyle}>Harshvardhan Singh</h1>
       </div>
 
       <ul className="hidden md:flex">
