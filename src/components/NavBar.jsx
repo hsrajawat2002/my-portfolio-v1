@@ -37,7 +37,7 @@ const NavBar = () => {
       <div>
         <h1 className="text-5xl  font-signature ml-2 
         bg-gradient-to-r from-yellow-300 via-sky-300 to-pink-400 inline-block text-transparent 
-        bg-clip-text" style={hstyle}>Harshvardhan Singh</h1>
+        bg-clip-text" style={hstyle}>Harshvardhan</h1>
       </div>
 
       <ul className="hidden md:flex">
