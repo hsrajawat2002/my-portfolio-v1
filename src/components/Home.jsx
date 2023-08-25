@@ -15,7 +15,7 @@ const Home = () => {
             I'm a Student<code> </code> 
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            Hello, I am a final year Student at IIT JAMMU pursuing my Bachelor of Technology in the
+            Hi, I am a final year Student at IIT JAMMU pursuing my Bachelor of Technology in the
             field of Electrical Engineering.
           </p>
 
